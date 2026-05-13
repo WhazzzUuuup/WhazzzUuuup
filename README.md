@@ -1,6 +1,6 @@
 <h2 align="left">Rainer Winkler</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&width=435&lines=Hello;Rainer+Winkler+Drachenlord)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1200&width=435&lines=Hello;Rainer+Winkler+Drachenlord)](https://git.io/typing-svg)
 
 <div align="left">
 </div>
